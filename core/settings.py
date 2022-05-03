@@ -40,7 +40,7 @@ ALLOWED_HOSTS = ['fathomless-woodland-11120.herokuapp.com', 'localhost', '127.0.
 
 INSTALLED_APPS = [
     'rest_framework',
-    'coreapi.apps.CoreapiConfig',
+    'studysafe_trace.apps.StudysafeTraceConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
